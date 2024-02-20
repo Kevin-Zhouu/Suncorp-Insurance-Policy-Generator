@@ -8,6 +8,7 @@ The service architecture includes:
 - **Frontend**: Developed using React, providing a user-friendly interface.
 - **Backend**: Powered by Spring Boot 3.1, orchestrated via Kubernetes for enhanced scalability and reliability.
 - **CI/CD Pipeline**: Leveraging Jenkins for continuous integration and delivery, ensuring code quality and deployment efficiency.
+<img width="919" alt="image" src="https://github.com/Kevin-Zhouu/Suncorp-Insurance-Policy-Generator/assets/68810460/63d563e6-5365-4044-93ea-b7e4ac67f64f">
 
 ## High-Level Design
 The tool supports rapid policy generation, offers customization across different brands, and maintains stability across environments.
